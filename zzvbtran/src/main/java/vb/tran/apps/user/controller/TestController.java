@@ -12,11 +12,6 @@ public class TestController {
 	@RequestMapping(value= {"/", "/index"},method=RequestMethod.GET)
 	public String index() {
 		///ddddeddd
-		// 001
-		// 001-1
-		// 001-2
-		// 001-3
-		// 001-4
 		return "xxx";
 	}
 }
