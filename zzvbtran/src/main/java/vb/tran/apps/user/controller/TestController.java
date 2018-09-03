@@ -11,6 +11,7 @@ public class TestController {
 	
 	@RequestMapping(value= {"/", "/index"},method=RequestMethod.GET)
 	public String index() {
+		///ddddeddd
 		return "xxx";
 	}
 }
